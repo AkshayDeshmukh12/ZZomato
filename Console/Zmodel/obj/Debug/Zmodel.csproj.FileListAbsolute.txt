@@ -1,0 +1,6 @@
+C:\Users\akshay.deshmukh\source\repos\Any1\Zmodel\obj\Debug\Zmodel.csproj.AssemblyReference.cache
+C:\Users\akshay.deshmukh\source\repos\Any1\Zmodel\obj\Debug\Zmodel.csproj.CoreCompileInputs.cache
+C:\Users\akshay.deshmukh\source\repos\Any1\Zmodel\bin\Debug\Zmodel.dll
+C:\Users\akshay.deshmukh\source\repos\Any1\Zmodel\bin\Debug\Zmodel.pdb
+C:\Users\akshay.deshmukh\source\repos\Any1\Zmodel\obj\Debug\Zmodel.dll
+C:\Users\akshay.deshmukh\source\repos\Any1\Zmodel\obj\Debug\Zmodel.pdb

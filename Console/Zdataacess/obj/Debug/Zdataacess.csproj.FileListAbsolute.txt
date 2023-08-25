@@ -1,0 +1,9 @@
+C:\Users\akshay.deshmukh\source\repos\Any1\Zdataacess\obj\Debug\Zdataacess.csproj.AssemblyReference.cache
+C:\Users\akshay.deshmukh\source\repos\Any1\Zdataacess\obj\Debug\Zdataacess.csproj.CoreCompileInputs.cache
+C:\Users\akshay.deshmukh\source\repos\Any1\Zdataacess\bin\Debug\Zdataacess.dll
+C:\Users\akshay.deshmukh\source\repos\Any1\Zdataacess\bin\Debug\Zdataacess.pdb
+C:\Users\akshay.deshmukh\source\repos\Any1\Zdataacess\bin\Debug\Zmodel.dll
+C:\Users\akshay.deshmukh\source\repos\Any1\Zdataacess\bin\Debug\Zmodel.pdb
+C:\Users\akshay.deshmukh\source\repos\Any1\Zdataacess\obj\Debug\Zdataacess.csproj.CopyComplete
+C:\Users\akshay.deshmukh\source\repos\Any1\Zdataacess\obj\Debug\Zdataacess.dll
+C:\Users\akshay.deshmukh\source\repos\Any1\Zdataacess\obj\Debug\Zdataacess.pdb

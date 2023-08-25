@@ -1,0 +1,13 @@
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\obj\Debug\Any1.csproj.AssemblyReference.cache
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\obj\Debug\Any1.csproj.SuggestedBindingRedirects.cache
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\obj\Debug\Any1.csproj.CoreCompileInputs.cache
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\bin\Debug\Any1.exe.config
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\bin\Debug\Any1.exe
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\bin\Debug\Any1.pdb
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\bin\Debug\Zdataacess.dll
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\bin\Debug\Zmodel.dll
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\bin\Debug\Zdataacess.pdb
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\bin\Debug\Zmodel.pdb
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\obj\Debug\Any1.csproj.CopyComplete
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\obj\Debug\Any1.exe
+C:\Users\akshay.deshmukh\source\repos\Any1\Any1\obj\Debug\Any1.pdb
